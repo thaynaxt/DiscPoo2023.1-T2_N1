@@ -1,1 +1,7 @@
-
+|  Nº  |  Questão  |
+|------|-----------|
+|  05  | Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente.|
+|  07  | Faça um programa que receba quatro valores, I, A, B e C. I é um valor inteiro e positivo e A, B, C são valores reais. Escreva os números A, B e C obdecendo à tabela a seguir.|
+|  12  | Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.|
+|  14  | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola.|
+|  21  | Faça um programa que receba: 1) o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, ou seja, um número inteiro entre 1 e 5; 2) o peso da carga do caminhão em toneladas; 3) o código da carga, supondo que a digitação do código da carga seja sempre válida, ou seja, um número inteiro entre 10 e 40. Calcule e mostre: 1) o peso da carga do caminhão convertido em quilos; 2) o preço da carga do caminhão; 3) o valor do imposto, sabendo-se que o imposto é cobrado sobre o preço da carga do caminhão e que depende do estado de origem; 4) o valor total transportado pelo caminhão, carga mais imposto.| 
